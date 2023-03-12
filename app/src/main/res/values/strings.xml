@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="intro_text">Droid Desserts</string>
+    <string name="froyo">Froyo is premuim self-service frozen yogurt.</string>
+    <string name="ice_cream_sanwiches">Ice cream sandwiches have chocolate wafers and vanilla filling</string>
+    <string name="donuts">Donuts are glazed and springkled with candy.</string>
+
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich</string>
+    <string name="froyo_order_message">You ordered a froyo.</string>
+    <string name="order">Order</string>
+    <string name="choose_a_delivery_method">Choose a delivery method</string>
+    <string name="sameday">Same day messenger service</string>
+    <string name="nextday">Next day ground delivery</string>
+    <string name="pickup">Pick up</string>
+    <string name="android_contact">Contact</string>
+    <string name="action_order">Order</string>
+    <string name="action_status">Status</string>
+    <string name="action_favorites">Favorites</string>
+
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorite_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+</resources>
